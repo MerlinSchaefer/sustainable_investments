@@ -7,6 +7,8 @@ name = "pypi"
 pre-commit = "*"
 pandas = "*"
 python-dotenv = "*"
+yfinance = "*"
+streamlit = "*"
 
 [dev-packages]
 
